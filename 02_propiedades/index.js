@@ -16,6 +16,7 @@ let pessoa = {
 
 console.log(pessoa['nome']);
 
-let nomePessoa = pessoa['nome'];
+let nomePessoa = ['nome'];
 
 console.log(nomePessoa.length);
+// 1
